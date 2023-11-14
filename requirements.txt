@@ -36,7 +36,6 @@ rich
 scikit-learn
 scipy
 six
-sklearn
 smmap
 streamlit
 tenacity
