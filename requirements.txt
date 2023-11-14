@@ -33,7 +33,6 @@ referencing
 regex
 requests
 rich
-rpds-py
 scikit-learn
 scipy
 six
