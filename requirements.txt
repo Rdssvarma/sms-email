@@ -16,7 +16,7 @@ jsonschema-specifications
 markdown-it-py
 MarkupSafe
 mdurl
-nltk==3.8.1
+nltk==3.5
 numpy
 packaging
 pandas
